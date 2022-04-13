@@ -6,6 +6,8 @@
 
 [Team 12736](https://www.youtube.com/watch?v=luzvJ3wJkNU) - Driving video and real time usage
 
+[Kiwi Library](https://docs.ftclib.org/ftclib/features/drivebases) - Used for coding for kiwi drive train
+
 [Vector Projection](https://www.youtube.com/watch?v=PLcniG5HmRk)
 
 
