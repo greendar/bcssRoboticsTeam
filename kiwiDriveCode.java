@@ -1,6 +1,3 @@
-
-
-
 public void controller(){
   double d0x = -0.5;
   double d0y = 0.866;
